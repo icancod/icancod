@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Black and Gray Minimalist Shapes Personal Profile LinkedIn Banner.gif" width="100%" />
+  <img src="banner.gif" width="100%" />
 </p>
 
 
