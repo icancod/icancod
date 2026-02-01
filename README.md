@@ -1,11 +1,8 @@
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQGdNH3wLpBrnA/profile-displaybackgroundimage-shrink_350_1400/B56Zuna3knHIAY-/0/1768040408404?e=1771459200&v=beta&t=anhhLb0SpoGh4ch2ffi6d7C7BP2sIV_5eQtpsLQ3krE" width="100%" />
+  <img src="Black and Gray Minimalist Shapes Personal Profile LinkedIn Banner.gif" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Innovating+at+the+intersection+of;Tech+%26+Business+Impact" />
-</p>
 
 
 <h1 align="center">Hi 👋, I'm Sachin Dev</h1>
